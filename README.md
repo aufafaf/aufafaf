@@ -1,12 +1,13 @@
-## Hello World I'm Aufa Anggara
 
 ![Muhammad Falah Aufa Anggara](img/github-header-banner.png)
+
+## Hello World I'm Aufa Anggara
 
 - 🌱 I’m currently learning Laravel Framework...
 
 #### Skils
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,typescript,react,nextjs,mysql,postgresql,dart,flutter,cpp,python,&theme=light&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,typescript,react,nextjs,mysql,postgresql,dart,flutter,cpp,python,&theme=light&perline=)](https://skillicons.dev)
 
 #### Connect With Me
 
