@@ -3,7 +3,7 @@
 
 ## Hello World I'm Aufa Anggara
 
-- 🌱 I’m currently learning Laravel Framework...
+- 🌱 I’m currently learning Cyber Security...
 
 #### Skils
 
