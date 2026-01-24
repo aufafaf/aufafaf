@@ -1,6 +1,6 @@
 <!-- ![Muhammad Falah Aufa Anggara](img/github-header-banner.png) -->
 
-## Hi I'm Aufa Anggara
+## 👋 Hi I'm Aufa Anggara
 Learn to become a Fullstack Developer | Cyber Security Analyst
 
 📍 Sleman, Yogyakarta
@@ -26,16 +26,16 @@ Learn to become a Fullstack Developer | Cyber Security Analyst
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=2f2f2f"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=2f2f2f"/>
 
-#### 🕹️ Contribution Graph
+### 🕹️ Contribution Graph
 
 <img src="https://raw.githubusercontent.com/aufafaf/aufafaf/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=2f2f2f"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=2f2f2f"/>
 
-#### 🧰 Tech Stack
+### 🧰 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,typescript,react,nextjs,mysql,postgresql,dart,flutter,cpp,python,&theme=light&perline=)](https://skillicons.dev)
