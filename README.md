@@ -1,4 +1,4 @@
-![Muhammad Falah Aufa Anggara](img/github-header-banner.png)
+<!-- ![Muhammad Falah Aufa Anggara](img/github-header-banner.png) -->
 
 ## Hello World I'm Aufa Anggara
 
@@ -13,14 +13,6 @@
 ![https://instagram.com/au.fann](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://https://www.linkedin.com/in/muhammad-falah-aufa-anggara-aa20a4327/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 #### Play Game With Me
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aufafaf/aufafaf/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aufafaf/aufafaf/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aufafaf/aufafaf/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <img src="https://raw.githubusercontent.com/aufafaf/aufafaf/output/snake.svg" alt="Snake animation" />
 
