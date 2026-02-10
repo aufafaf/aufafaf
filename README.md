@@ -32,4 +32,4 @@ Learn to become a Fullstack Developer | App Developer | Cyber Security Analyst
 
 ## 🧰 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,typescript,react,nextjs,mysql,postgresql,dart,flutter,cpp,python,&theme=light&perline=)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,typescript,php,react,nextjs,mysql,postgresql,dart,flutter,cpp,python,&theme=light&perline=)](https://skillicons.dev)
