@@ -19,7 +19,7 @@ Learn to become a Fullstack Developer | App Developer | Cyber Security Analyst
   </a>
   &nbsp;
   <a href="https://aufan.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-aufa.com-0f172a?style=flat&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-aufan.vercel.app-0f172a?style=flat&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=2f2f2f"/>
